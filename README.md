@@ -37,7 +37,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat=ubuntu&logoColor=white"
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 
 </p>
