@@ -12,7 +12,6 @@
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
@@ -29,7 +28,6 @@
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=LibreOffice&logoColor=white">
-<img src="https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B">
 
 </p>
 
@@ -41,7 +39,6 @@
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white">
 
 </p>
 
@@ -50,9 +47,7 @@
 ### Redes
 
 <p>
-<img href="https://twitter.com/Vishoowsky" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
-<img href="https://www.linkedin.com/in/vishowsky" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
 
 </p>
-
-
