@@ -1,12 +1,25 @@
+
+<p align="center">
+
 # HOLA SOY VISHOWSKY
 
+</p>
 
-<img class="ranko" src="https://media.tenor.com/laLBbWGSlS8AAAAC/akiba-maid-war-akiba-maid-senso.gif" ></img>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishowsky" alt="vishowsky" /> </p>
 
 ---
 
+<img  align="right" width="550px" class="ranko" src="https://media.tenor.com/laLBbWGSlS8AAAAC/akiba-maid-war-akiba-maid-senso.gif" ></img>
+
+
+
+
+
+
+
 ### Tecnologias y herramientas preferidas
+
 
 <p>
 
@@ -61,4 +74,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishowsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 </p>
+
