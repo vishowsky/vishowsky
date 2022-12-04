@@ -1,5 +1,5 @@
-# HOLAAA!!!! 
-### Sientete libre de ver mis proyectos :D
+# HOLA SOY VISHOWSKY
+
 
 <img class="ranko" src="https://media.tenor.com/laLBbWGSlS8AAAAC/akiba-maid-war-akiba-maid-senso.gif" ></img>
 
@@ -57,3 +57,8 @@
 </p>
 
 ---
+<p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishowsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
