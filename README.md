@@ -36,6 +36,7 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)]()
 [![sqlserver](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+
 ---
 
 ### Sistemas operativos
@@ -43,6 +44,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)]()
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=Fedora&logoColor=white)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)]()
+
 ---
 
 
@@ -56,10 +58,8 @@
 
 
 
-</p>
 
 ---
-<p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishowsky&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishowsky&show_icons=true&theme=radical&card_width=400&hide_rank)
 
