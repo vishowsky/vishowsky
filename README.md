@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishowsky" alt="vishowsky" /> </p>
+[![](https://komarev.com/ghpvc/?username=vishowsky&color=ff69b4)]()
 
 ---
 
