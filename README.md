@@ -11,7 +11,7 @@
 
 ---
 
-<img  align="right" width="450px" class="ranko" src="https://media.tenor.com/laLBbWGSlS8AAAAC/akiba-maid-war-akiba-maid-senso.gif" ></img>
+<img  align="right" width="450px" class="ranko" src="[https://media.tenor.com/laLBbWGSlS8AAAAC/akiba-maid-war-akiba-maid-senso.gif](https://i.gifer.com/Z23a.mp4)" ></img>
 
 ### Tecnologias y herramientas
 [![Csharp](https://img.shields.io/badge/C%23-blueviolet?style=flat&logo=c-sharp&logoColor=white)]()
