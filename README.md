@@ -14,23 +14,12 @@
 <img  align="right" width="450px" class="ranko" src="https://media.tenor.com/laLBbWGSlS8AAAAC/akiba-maid-war-akiba-maid-senso.gif" ></img>
 
 
-### Tecnologias y herramientas
-[![Csharp](https://img.shields.io/badge/C%23-blueviolet?style=flat&logo=c-sharp&logoColor=white)]()
-[![dotNet](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)]()
-[![Html](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)]()
-[![Css](https://img.shields.io/badge/CSS-blue?&style=flat&logo=css3&logoColor=white)]()
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)]()
-[![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)]()
-[![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]()
-[![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)]()
-[![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)]()
-
-
-
 ---
 
 ### Aprendiendo Actualmente
 
+[![github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]()
+[![Csharp](https://img.shields.io/badge/C%23-blueviolet?style=flat&logo=c-sharp&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)]()
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
