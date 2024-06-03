@@ -44,7 +44,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishowsky-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/vishowsky)
 
-[![Link](https://img.shields.io/badge/Sitio_web-vishowsky.site-39E05B?style=flat&logo=&logoColor=white&labelColor=101010)](https://vishowsky.site)
+[![Link](https://img.shields.io/badge/Sitio_web-vishowsky.tech-39E05B?style=flat&logo=&logoColor=white&labelColor=101010)](https://vishowsky.tech)
 
 
 
